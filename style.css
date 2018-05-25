@@ -1,0 +1,32 @@
+
+.caja{
+    height: 100px;
+    width: 100 px;
+    margin: 5px;
+    display: inline-block;
+}
+
+#red {
+   background-color: red;
+   display: inline-block;
+   padding: 150px 200px;
+   position: absolute;
+  }
+
+#purple {
+    background-color:purple;
+    display: inline-block;
+    padding: 50px 100px;
+    position: absolute;
+    right: 500px;
+    top: 100px;
+   }
+
+#yellow {
+    background-color: yellow;
+    display: inline-block;
+    padding: 15px 60px;
+    position: absolute;
+    right: 580px;
+    top: 100px;
+   }
